@@ -1,5 +1,5 @@
 
-# Odyssey Farmer GUI (Ithaca)
+# Odyssey Farmer GUI (Ithaca) https://t.me/afflictionmoney
 
 - Reads **private keys** from `private.txt` (one per line).
 - Modes: **Loop** (random delays) and **Cron-like** (≈ N tx/day with jitter).
